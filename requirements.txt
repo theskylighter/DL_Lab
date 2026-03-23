@@ -1,0 +1,19 @@
+# Deep Learning Framework
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+
+# NLP & Word Embeddings
+gensim>=4.3.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Optional but recommended for Jupyter notebooks
+jupyter>=1.0.0
+ipython>=8.0.0
